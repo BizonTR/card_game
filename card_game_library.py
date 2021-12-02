@@ -138,5 +138,3 @@ replace_numbers()
 card_places_list()
 enter_card_number_1()
 enter_card_number_2()
-
-#card 1 için seçilen card numarası > card 2 numarası olunca sorunsuz ama tam tersi olunca card 1 kapanıyor.
